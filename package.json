@@ -1,0 +1,15 @@
+{
+  "name": "tfjs-image-filters",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.11.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.0",
+    "parcel-bundler": "^1.8.1"
+  }
+}
